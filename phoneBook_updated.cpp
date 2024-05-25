@@ -169,7 +169,7 @@ void printIntroduction()
     cout << "\"Phone Directory Application\"" << endl;
     cout << "Created By \"Muhammad Athar\"" << endl;
     cout << "\"BS CS\"" << endl;
-    cout << "1200" << endl;
+    cout << "1224" << endl;
     cout << "IUB" << endl;
     cout << endl;
     
